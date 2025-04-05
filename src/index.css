@@ -47,19 +47,19 @@ table {
 @font-face {
     font-family: 'AtypDisplay-bold';
     /*700: bold*/
-    src: url('../public/assets/fonts/AtypDisplay-Bold.ttf') format('truetype');
+    src: url('/assets/fonts/AtypDisplay-Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'AtypDisplay-medium';
     /*500: Medium*/
-    src: url('../public/assets/fonts/AtypDisplay-Medium.ttf') format('truetype');
+    src: url('/assets/fonts/AtypDisplay-Medium.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'AtypDisplay-regular';
     /*400: Regular (Normal)*/
-    src: url('../public/assets/fonts/AtypDisplay-Regular.ttf') format('truetype');
+    src: url('/assets/fonts/AtypDisplay-Regular.ttf') format('truetype');
 }
 
 /*AtypText*/
@@ -67,17 +67,17 @@ table {
 @font-face {
     font-family: 'AtypText-medium';
     /*500: Medium*/
-    src: url('../public/assets/fonts/AtypText-Medium.ttf') format('truetype');
+    src: url('/assets/fonts/AtypText-Medium.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'AtypText-regular';
     /*400: Regular (Normal)*/
-    src: url('../public/assets/fonts/AtypText-Regular.ttf') format('truetype');
+    src: url('/assets/fonts/AtypText-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'AtypText-light';
     /*300: Light*/
-    src: url('../public/assets/fonts/AtypText-Light.ttf') format('truetype');
+    src: url('/assets/fonts/AtypText-Light.ttf') format('truetype');
 }
