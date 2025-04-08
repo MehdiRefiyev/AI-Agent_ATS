@@ -16,7 +16,8 @@ export default function Prepending() {
         ${text}
         
         Analyze the following resume content and determine if it meets ATS (Applicant Tracking System) standards.
-        If it is not rewrite for me and i dont need any explanation , only context .
+        If it is not rewrite for me and I dont need ANY explanation like 'I understand you'  , PAGE NUMBERs , ONLY context!!!!. 
+        Also without ** symbols like that . Additional information for you Ə is E in Latin.
       `);
       setNewCv(result ?? ''); // Use nullish coalescing to default to empty string
     }
