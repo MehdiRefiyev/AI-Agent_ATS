@@ -1,3 +1,10 @@
+# HOW USE?
+
+1. Git clone this project  if you dont know here (https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+2. Open Terminal and run comand 'npm install'
+3. Add Your Gemini Api key to src/utils/api.ts file . You should reassign BASE_KEY and add actual key to use . For get Api you can go to (https://ai.google.dev/gemini-api/docs?hl=ru) Google website and get your Key.
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
